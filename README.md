@@ -44,7 +44,7 @@
 ## 📫 Let's Connect
 
 - ✉️ [Email me](abkeshavkumar@gmail.com)  
-- 🔗 [LinkedIn]() 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/keshav-kumar-a04898233/) 
 
 ---
 
