@@ -11,9 +11,9 @@
 
 - 🌀 **Unsteady Aerodynamics**  
 - 🤖 **Deep Learning for Fluid Dynamics**  
-- 📈 **Physics-Informed Neural Networks (PINNs)**  
+- 📈 **Data-Driven models and machine learning for flow predictions**  
 - 🧠 Computer Vision and Natural Language Processing (CNNs, RNNs, Transformers)
-- 🌐 **Web Development Projects (Coming Soon!)**
+- 🌐 **Web Development Projects**
 
 ---
 
