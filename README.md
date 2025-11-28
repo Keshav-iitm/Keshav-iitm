@@ -13,7 +13,7 @@
 - 📊 **Gaussian Process Regression with Non-Stationary Kernels**
 - 🎯 **Active Learning for Efficient Data Sampling & Model Improvement**
 - 🤖 **Scientific Machine Learning (Sci-ML) for Complex Dynamical Systems** 
-- 🧠 **Deep Learning & Probabilistic Modeling** 
+- 🧠 **Probabilistic Modeling** 
 - 🌐 **Web Development Projects**
 
 
