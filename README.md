@@ -11,9 +11,9 @@
 
 - 🌀 **Scientific-Machine Learning/Deep Learning**  
 - 📊 **Gaussian Process Regression with Non-Stationary Kernels**
-- 🎯 **Active Learning for Efficient Data Sampling & Model Improvement**
+- 🎯 **Active Learning for Model Improvement**
 - 🤖 **Scientific Machine Learning (Sci-ML) for Complex Dynamical Systems** 
-- 🧠 **Active data smapling & Probabilistic Modeling** 
+- 🧠 **Active data sampling & Probabilistic Modeling** 
 - 🌐 **Web Development Projects**
 
 
