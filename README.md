@@ -1,4 +1,4 @@
-# 👨‍💻 A. B. Keshav Kumar
+# 👨‍💻 A B. Keshav Kumar
 
 🎓 MS Scholar @ Indian Institute of Technology, Madras (IIT Madras)
 📍 Department of Aerospace Engineering 
